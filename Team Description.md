@@ -2,7 +2,7 @@
 
 ## Background
 
-Secure Inter-Domain Routing (SIDR) consists of Resource Public Key Infrastructure (RPKI), Origin Validation of BGP announcements, and BGPsec. SIDR Operations Working Group (SIDROPS WG) is responsible for the maintenance of all SIDR components, except BGPsec. Specifically, SIDROPS WG is responsible for RPKI maintenance. In the meantime, several RPKI-related extensions are (being) proposed in other WGs: BMWG, IDR, GROW, OPSAWG, REGEXT, SAVNET, etc. Some coordination is needed to make sure that these extensions are compliant with the core specifications maintained in SIDROPS. In addition, there is a also need to provide guidance for authors and reviewers of RPKI-related extensions to ensure consistency and leverage best design practices and operational guidance.
+Secure Inter-Domain Routing (SIDR) consists of Resource Public Key Infrastructure (RPKI), Origin Validation of BGP announcements, and BGPsec. SIDR Operations Working Group (SIDROPS WG) is responsible for the maintenance of all SIDR components, except BGPsec. Specifically, SIDROPS WG is responsible for RPKI maintenance. In the meantime, several RPKI-related extensions are (being) proposed in other WGs: BMWG, IDR, GROW, OPSAWG, REGEXT, SAVNET, etc. Some coordination is needed to make sure that these extensions are compliant with the core specifications maintained in SIDROPS. In addition, there is  also a need to provide guidance for authors and reviewers of RPKI-related extensions to ensure consistency and leverage best design practices and operational guidance.
 
 To that aim, a new experimental review team (TBD) is set for an initial duration of 2 years.
 
