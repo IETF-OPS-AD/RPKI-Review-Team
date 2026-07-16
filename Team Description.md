@@ -11,7 +11,7 @@ To that aim, a new experimental review team (TBD) is set for an initial duration
 * Socialize the team within relevant IETF WGs.
 * Proactively identify and review RPKI-related I-Ds.
 * Perform reviews upon request of WG Chairs and ADs. Early reviews (i.e., before WGLC) are recommended.
-* Document guidance for authors and reviewers of RPKI-related extensions. These guidance may be published as an RFC.
+* Document guidance for authors and reviewers of RPKI-related extensions. The guidance may be published as an RFC.
 * Reviews performed by the team will focus on the following aspects:
     + Ensure consistency and prevent duplicate or conflicting extensions.
     + Identify misconceptions and inadequate assumptions about RPKI in operations.
