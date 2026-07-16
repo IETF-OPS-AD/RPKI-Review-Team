@@ -15,7 +15,7 @@ To that aim, a new experimental review team (TBD) is set for an initial duration
 * Reviews performed by the team will focus on the following aspects:
     + Ensure consistency and prevent duplicate or conflicting extensions.
     + Identify misconceptions and inadequate assumptions about RPKI in operations.
-    + Provide recommendations to make the best use of the RPKI (object naming conventions, ASN.1 profile syntax, etc.) and leverage best design practices and operational guidance.
+    + Provide recommendations to make the best use of the RPKI (object naming conventions, ASN.1 syntax, etc.) and leverage best design practices and operational guidance.
     + Assess the intended authorization structure, signing/validation procedures, and security mechanisms in general.
     + Assess the deployability of a proposed extension and how it integrates with RPKI ecosystem.
 
