@@ -9,7 +9,7 @@ To that aim, a new experimental review team (TBD) is set for an initial duration
 ## Missions
 
 * Socialize the team within relevant IETF WGs.
-* Proactively identify and $review RPKI-related I-Ds.
+* Proactively identify and review RPKI-related I-Ds.
 * Perform reviews upon request of WG Chairs and ADs. Early reviews (i.e., before WGLC) are recommended.
 * Document guidance for authors and reviewers of RPKI-related extensions. The guidance may be published as an RFC.
 * Reviews performed by the team will focus on the following aspects:
@@ -19,10 +19,7 @@ To that aim, a new experimental review team (TBD) is set for an initial duration
     + Provide recommendations to make the best use of the RPKI (object naming conventions, ASN.1 syntax, etc.) and leverage best design practices and operational guidance.
     + Assess the intended authorization structure, signing/validation procedures, and security mechanisms in general.
     + Assess the deployability of a proposed extension and how it integrates with RPKI ecosystem.
-
-## (Sample) Inventory of RPKI-related I-Ds
-
-* TBC.
+* Reviews should not discuss charter-related discussion.
 
 ## Team Members
 
